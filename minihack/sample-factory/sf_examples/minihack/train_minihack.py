@@ -198,7 +198,7 @@ def override_default_params(parser):
         save_every_sec=5,
         with_wandb=True,
         intrinsic_reward_global='none',
-        wandb_user='mikaelhenaff',
+        wandb_user='gxchen',
         experiment_summaries_interval=10,
         rnn_size=128,
         rnn_type="lstm",
